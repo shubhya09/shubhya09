@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working as a **Full Stack Developer Intern**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
-- 🎯 2024 Goals: **Contribute to Open Source & Explore DevOps**
+- 🎯 2025 Goals: **Contribute to Open Source & Explore DevOps**
 - 📫 Reach me via [LinkedIn](www.linkedin.com/in/shubham-sonavale111) or [Twitter](https://x.com/Shubhya__09)
 
 ---
