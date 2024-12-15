@@ -42,6 +42,12 @@
   <a href="https://github.com/shubhya09/Expence-Tracker" target="_blank">
     <img src="https://img.shields.io/badge/Project%201-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
   </a>
+  <a href="https://github.com/shubhya09/Traveler-Zone" target="_blank">
+    <img src="https://img.shields.io/badge/Project%201-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
+  </a>
+  <a href="https://github.com/shubhya09/Form-Validation" target="_blank">
+    <img src="https://img.shields.io/badge/Project%201-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
+  </a>
 </p>
 
 ---
